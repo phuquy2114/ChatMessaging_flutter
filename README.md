@@ -14,3 +14,30 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+**Complete UI Contains:**
+
+► Splash Screen
+► Welcome Screen
+► Sign in & Sign up
+► Phone Validation (OTP)
+► Forget Password
+► Change Password
+► Chats Screen
+► Search Chats
+► Message Screen
+► Audio Call
+► Video Call
+► Contacts
+► Search Contacts
+► Call History
+► Search on Call history
+► Profile Screen
+► Edit Profile
+
+### Chat/Messaging App
+
+![Preview](/gif.gif)
+![Preview](/ui_kit.gif)
+
+![App UI](/ui.png)
+![App UI](/chat_kit.png)
